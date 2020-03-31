@@ -42,7 +42,7 @@ spec:
           httpGet:
             path: /
             port: 9080
-          initialDelaySeconds: 100
+          initialDelaySeconds: 20
           periodSeconds: 5
 ---
 kind: Service
