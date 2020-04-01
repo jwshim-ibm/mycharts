@@ -3,11 +3,11 @@ entries:
   eventapp-lab17:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-03-31T18:42:58.4074731+09:00
+    created: 2020-04-01T10:09:31.856584+09:00
     description: A Helm chart for Kubernetes
-    digest: 54daab50c25353c708a1fcc3ade8f662c35f4e5f3060797f9633a216439df649
+    digest: caa7066554cab01c337abf472416e7f5a366effd34eeec8701e020deb64ad70c
     name: eventapp-lab17
     urls:
     - https://jwshim-ibm.github.io/mycharts/eventapp-lab17-0.1.0.tgz
     version: 0.1.0
-generated: 2020-03-31T18:42:58.4074731+09:00
+generated: 2020-04-01T10:09:31.8555829+09:00
